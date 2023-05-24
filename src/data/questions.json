@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "question": "What is the capital of France?",
+        "answerOptions": [
+            {"answer": "New York", "isCorrect": false},
+            {"answer": "London", "isCorrect": false},
+            {"answer": "Paris", "isCorrect": true},
+            {"answer": "Dublin", "isCorrect": false}
+        ]
+    },
+    {
+        "id" : 2,
+        "question": "What is the capital of USA?",
+        "answerOptions": [
+            {"answer": "New York", "isCorrect": false},
+            {"answer": "Washintong DC", "isCorrect": true},
+            {"answer": "Miami", "isCorrect": false},
+            {"answer": "Chicago", "isCorrect": false}
+        ]
+    }
+]
